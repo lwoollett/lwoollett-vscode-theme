@@ -1,0 +1,22 @@
+{
+    "name": "lwoollett.theme",
+    "displayName": "Luke's Theme",
+    "description": "A bit of mui mixed with colorama",
+    "version": "1.0.1",
+    "publisher": "lwoollett",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lwoollett.mui",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lwoollett.json"
+            }
+        ]
+    }
+}
