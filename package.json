@@ -1,7 +1,7 @@
 {
-    "name": "lwoollett.theme",
+    "name": "lwoollett-cobalt-cust",
     "displayName": "Luke's Theme",
-    "description": "A bit of mui mixed with colorama",
+    "description": "Cobalt next w/ bracket colorizer customisation + recoloring some items",
     "version": "1.0.1",
     "publisher": "lwoollett",
     "engines": {
@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "repository": "https://github.com/lwoollett/lwoollett-vscode-theme",
     "contributes": {
         "themes": [
             {
